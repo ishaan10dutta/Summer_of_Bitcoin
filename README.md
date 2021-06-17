@@ -40,9 +40,13 @@ ii)Next, it checks if all the parents of the transaction are already present in 
 iii)If step ii) is true, we include the transaction and update the fees and weight accordingly. The current transaction is also erased from the current set to ensure every transaction is checked only once, else we move to the next higher transaction.
 
 Output:
+  
 Total Number of Transactions Read: 5214
+
 Total Number of transactions included in the final block: 3174
+
 Total fees generated from the current block: 5696031
+  
 Total weight of the current block: 3999936
 
 ![Screenshot](https://github.com/ishaan10dutta/Summer_of_Bitcoin/blob/main/final_output.JPG)
