@@ -45,4 +45,4 @@ Total Number of transactions included in the final block: 3174
 Total fees generated from the current block: 5696031
 Total weight of the current block: 3999936
 
-![Screenshot](final_output.jpg)
+![Screenshot](https://github.com/ishaan10dutta/Summer_of_Bitcoin/blob/main/final_output.JPG)
